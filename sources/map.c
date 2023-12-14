@@ -1,23 +1,14 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   so_long.h                                          :+:      :+:    :+:   */
+/*   map.c                                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: nagmor <nagmor@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/14 07:40:03 by nagmor            #+#    #+#             */
-/*   Updated: 2023/11/29 19:38:39 by nagmor           ###   ########.fr       */
+/*   Created: 2023/11/29 19:35:52 by nagmor            #+#    #+#             */
+/*   Updated: 2023/12/01 08:41:46 by nagmor           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef SO_LONG_H
-# define SO_LONG_H
+#include "../includes/so_long.h"
 
-# include <unistd.h>
-# include <X11/keysym.h>
-# include "../libs/minilibx-linux/mlx.h"
-# include "../libs/libft/libft.h"
-# include "../libs/gnl/get_next_line.h"
-# include <stdio.h>
-
-#endif
